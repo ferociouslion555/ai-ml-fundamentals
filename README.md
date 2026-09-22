@@ -2,40 +2,57 @@
 
 This repository archives a set of foundational AI/ML "refresher" Colab notebooks. For **each** colab it contains:
 
-1. **The executed notebook** (`.ipynb`) — run end-to-end with **real inputs and outputs** captured.
-2. **A block-by-block theory explanation** (`EXPLANATION.md`) — what each code block does, the theory behind it, and why it matters for AI/ML. UI/plotting boilerplate is skipped so we focus on the key ideas.
-3. **A video narration script** (`VIDEO_SCRIPT.md`) — a ready-to-record, code-block-by-code-block walkthrough.
+1. **The executed notebook** (`.ipynb`) — run end-to-end with real inputs and outputs captured.
+2. **A YouTube video** walking through the notebook code block by code block, explaining the theory behind each block and its output.
 
 The goal is a solid, fundamental understanding of the basics of **AI/ML, tensors, and basic architecture**.
 
-## 📺 YouTube Videos
+## 📺 Videos & Notebooks
 
-> Record one video per colab. After uploading, paste the link in the table below.
-
-| # | Colab / Topic | Notebook | Explanation | Video Script | YouTube Link |
-|---|---------------|----------|-------------|--------------|--------------|
-| 0 | Neural Network Playground (site) | — | [site explainer](00_neural_network_playground/EXPLANATION.md) | [script](00_neural_network_playground/VIDEO_SCRIPT.md) | _paste link_ |
-| 1 | Introduction to Python | [notebook](01_intro_to_python/Introduction_to_Python.ipynb) | [explanation](01_intro_to_python/EXPLANATION.md) | [script](01_intro_to_python/VIDEO_SCRIPT.md) | _paste link_ |
-| 2 | Introduction to NumPy | _pending_ | _pending_ | _pending_ | _paste link_ |
-| 3 | Introduction to pandas | _pending_ | _pending_ | _pending_ | _paste link_ |
-| 4 | Introduction to matplotlib | _pending_ | _pending_ | _pending_ | _paste link_ |
-| 5 | Basic Linear Algebra | _pending_ | _pending_ | _pending_ | _paste link_ |
-| 6 | Linear Algebra (2) | _pending_ | _pending_ | _pending_ | _paste link_ |
-| 7 | Linear Algebra (3) | _pending_ | _pending_ | _pending_ | _paste link_ |
-| 8 | Intro to Probability | _pending_ | _pending_ | _pending_ | _paste link_ |
-| 9 | Intro to Statistics | _pending_ | _pending_ | _pending_ | _paste link_ |
-| 10 | Data Science Prob & Stats (1) | _pending_ | _pending_ | _pending_ | _paste link_ |
-| 11 | Data Science Prob & Stats (2) | _pending_ | _pending_ | _pending_ | _paste link_ |
-| 12 | Data Science Prob & Stats (3) | _pending_ | _pending_ | _pending_ | _paste link_ |
-| 13 | Intro to Calculus (1) | _pending_ | _pending_ | _pending_ | _paste link_ |
-| 14 | Intro to Calculus (2) | _pending_ | _pending_ | _pending_ | _paste link_ |
-| 15 | Intro to Calculus (3) | _pending_ | _pending_ | _pending_ | _paste link_ |
-| 16 | Foundations of Learning | _pending_ | _pending_ | _pending_ | _paste link_ |
+| # | Colab / Topic | Executed Notebook | YouTube Video |
+|---|---------------|-------------------|---------------|
+| 0 | Neural Network Playground (site walkthrough) | — (interactive site) | _pending_ |
+| 1 | Introduction to Python | [notebook](01_intro_to_python/Introduction_to_Python.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=KnaDpP-P8WQ) |
+| 2 | Introduction to NumPy | _pending_ | _pending_ |
+| 3 | Introduction to pandas | _pending_ | _pending_ |
+| 4 | Introduction to matplotlib | _pending_ | _pending_ |
+| 5 | Basic Linear Algebra | _pending_ | _pending_ |
+| 6 | Linear Algebra (2) | _pending_ | _pending_ |
+| 7 | Linear Algebra (3) | _pending_ | _pending_ |
+| 8 | Intro to Probability | _pending_ | _pending_ |
+| 9 | Intro to Statistics | _pending_ | _pending_ |
+| 10 | Data Science Prob & Stats (1) | _pending_ | _pending_ |
+| 11 | Data Science Prob & Stats (2) | _pending_ | _pending_ |
+| 12 | Data Science Prob & Stats (3) | _pending_ | _pending_ |
+| 13 | Intro to Calculus (1) | _pending_ | _pending_ |
+| 14 | Intro to Calculus (2) | _pending_ | _pending_ |
+| 15 | Intro to Calculus (3) | _pending_ | _pending_ |
+| 16 | Foundations of Learning | _pending_ | _pending_ |
 
 ## Assignment checklist
 
-- [ ] Copy each colab into your Google Drive and set "Anyone with the link" sharing.
+- [ ] Copy each colab into Google Drive and set "Anyone with the link" sharing.
 - [ ] Run all cells so outputs are saved.
 - [ ] Archive executed notebooks (with outputs) here in GitHub.
-- [ ] Record one YouTube video per colab (use each `VIDEO_SCRIPT.md`).
-- [ ] Paste each YouTube link into the table above.
+- [ ] Record one YouTube video per colab.
+- [ ] Add each YouTube link to the table above.
+
+## Colab source links
+
+- Introduction to Python: https://colab.research.google.com/drive/17E_cjURtuCBcPte6qUrMlCCdHRJ0QUB4
+- Introduction to NumPy: https://colab.research.google.com/drive/1DM_MCjCC6IzY2WK0vHlk90Ri7OAsT6df
+- Introduction to pandas: https://colab.research.google.com/drive/1atdrsQqKndPn3puN0K5241iMkpC57FNq
+- Introduction to matplotlib: https://colab.research.google.com/drive/18kGkqhPMpsrEVCdS7gKxwEZskJRnV1EP
+- Basic Linear Algebra: https://colab.research.google.com/drive/1tbGIBiTCEmdcrU7ZnrSsiZlQ0qZ17C1G
+- Linear Algebra (2): https://colab.research.google.com/drive/1klFPIng_eiHcff37XEC5QXIhigbomwEW
+- Linear Algebra (3): https://colab.research.google.com/drive/1fVRs54OulA6tWi48zDPDxeXgbr5BLWd-
+- Intro to Probability: https://colab.research.google.com/drive/1TmAZyMRMz5zl2VwJdK6NyoYQBFa5h30c
+- Intro to Statistics: https://drive.google.com/file/d/1IkMQOZVW5JQUCATRW2MbZPKCBVqlD4w6/view
+- Data Science Prob & Stats (1): https://colab.research.google.com/drive/1Ulo_oAalDK1diBEyy7F1RwsmqpXnnEds
+- Data Science Prob & Stats (2): https://colab.research.google.com/drive/10V5Mf9b3ZowR_-e78-4vKwUptPXfSzIP
+- Data Science Prob & Stats (3): https://colab.research.google.com/drive/1bO_ax8q_wTJ5HrZksk_EcC-1vE1fUPbT
+- Intro to Calculus (1): https://colab.research.google.com/drive/1euBXLqidelKsk8FhBZF726JELTmEGNxG
+- Intro to Calculus (2): https://colab.research.google.com/drive/1VF22nCsH6tocZ1uKY1KGU4i6IpQKvyBb
+- Intro to Calculus (3): https://colab.research.google.com/drive/1PAfNtX37saX6wvoM4t8UmBBJPQ56xvW9
+- Foundations of Learning: https://colab.research.google.com/drive/1tuZ7NAx6VC2qpyIG3RM4nJXmzN4si0VS
+- Neural Network Playground: https://dlmastery.github.io/neural-network-playground/
