@@ -9,7 +9,7 @@ Executed Colab notebooks (with outputs) plus one YouTube walkthrough per colab, 
 | 0 | Neural Network Playground (site) | — (interactive site) | _pending_ |
 | 1 | Introduction to Python | [notebook](01_intro_to_python/Introduction_to_Python.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=KnaDpP-P8WQ) |
 | 2 | Introduction to NumPy | [notebook](02_intro_to_numpy/Introduction_to_NumPy.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=DmvAnqVPN_E) |
-| 3 | Introduction to pandas | [notebook](03_intro_to_pandas/Introduction_to_pandas.ipynb) | _pending_ |
+| 3 | Introduction to pandas | [notebook](03_intro_to_pandas/Introduction_to_pandas.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=C53ToM1WUEc) |
 | 4 | Introduction to matplotlib | [notebook](04_intro_to_matplotlib/Introduction_to_matplotlib.ipynb) | _pending_ |
 | 5 | Basic Linear Algebra | [notebook](05_linear_algebra_basic/Basic_Linear_Algebra.ipynb) | _pending_ |
 | 6 | Linear Algebra (2) | [notebook](06_linear_algebra_2/Linear_Algebra_2.ipynb) | _pending_ |
