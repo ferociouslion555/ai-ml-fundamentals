@@ -1,39 +1,34 @@
 # AI/ML Fundamentals — Colab Archive & Explanations
 
-This repository archives a set of foundational AI/ML "refresher" Colab notebooks. For **each** colab it contains:
-
-1. **The executed notebook** (`.ipynb`) — run end-to-end with real inputs and outputs captured.
-2. **A YouTube video** walking through the notebook code block by code block, explaining the theory behind each block and its output.
-
-The goal is a solid, fundamental understanding of the basics of **AI/ML, tensors, and basic architecture**.
+Executed Colab notebooks (with outputs) plus one YouTube walkthrough per colab, explaining each block and its output, with a focus on the theory behind AI/ML, tensors, and basic architecture.
 
 ## 📺 Videos & Notebooks
 
 | # | Colab / Topic | Executed Notebook | YouTube Video |
 |---|---------------|-------------------|---------------|
-| 0 | Neural Network Playground (site walkthrough) | — (interactive site) | _pending_ |
+| 0 | Neural Network Playground (site) | — (interactive site) | _pending_ |
 | 1 | Introduction to Python | [notebook](01_intro_to_python/Introduction_to_Python.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=KnaDpP-P8WQ) |
 | 2 | Introduction to NumPy | [notebook](02_intro_to_numpy/Introduction_to_NumPy.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=DmvAnqVPN_E) |
-| 3 | Introduction to pandas | _pending_ | _pending_ |
-| 4 | Introduction to matplotlib | _pending_ | _pending_ |
-| 5 | Basic Linear Algebra | _pending_ | _pending_ |
-| 6 | Linear Algebra (2) | _pending_ | _pending_ |
-| 7 | Linear Algebra (3) | _pending_ | _pending_ |
-| 8 | Intro to Probability | _pending_ | _pending_ |
+| 3 | Introduction to pandas | [notebook](03_intro_to_pandas/Introduction_to_pandas.ipynb) | _pending_ |
+| 4 | Introduction to matplotlib | [notebook](04_intro_to_matplotlib/Introduction_to_matplotlib.ipynb) | _pending_ |
+| 5 | Basic Linear Algebra | [notebook](05_linear_algebra_basic/Basic_Linear_Algebra.ipynb) | _pending_ |
+| 6 | Linear Algebra (2) | [notebook](06_linear_algebra_2/Linear_Algebra_2.ipynb) | _pending_ |
+| 7 | Linear Algebra (3) | [notebook](07_linear_algebra_3/Linear_Algebra_3.ipynb) | _pending_ |
+| 8 | Intro to Probability | [notebook](08_intro_probability/Intro_Probability.ipynb) | _pending_ |
 | 9 | Intro to Statistics | _pending_ | _pending_ |
-| 10 | Data Science Prob & Stats (1) | _pending_ | _pending_ |
-| 11 | Data Science Prob & Stats (2) | _pending_ | _pending_ |
-| 12 | Data Science Prob & Stats (3) | _pending_ | _pending_ |
-| 13 | Intro to Calculus (1) | _pending_ | _pending_ |
-| 14 | Intro to Calculus (2) | _pending_ | _pending_ |
-| 15 | Intro to Calculus (3) | _pending_ | _pending_ |
-| 16 | Foundations of Learning | _pending_ | _pending_ |
+| 10 | Data Science Prob & Stats (1) | [notebook](10_ds_prob_stats_1/DS_Prob_Stats_1.ipynb) | _pending_ |
+| 11 | Data Science Prob & Stats (2) | [notebook](11_ds_prob_stats_2/DS_Prob_Stats_2.ipynb) | _pending_ |
+| 12 | Data Science Prob & Stats (3) | [notebook](12_ds_prob_stats_3/DS_Prob_Stats_3.ipynb) | _pending_ |
+| 13 | Intro to Calculus (1) | [notebook](13_calculus_1/Calculus_1.ipynb) | _pending_ |
+| 14 | Intro to Calculus (2) | [notebook](14_calculus_2/Calculus_2.ipynb) | _pending_ |
+| 15 | Intro to Calculus (3) | [notebook](15_calculus_3/Calculus_3.ipynb) | _pending_ |
+| 16 | Foundations of Learning | [notebook](16_foundations_of_learning/Foundations_of_Learning.ipynb) | _pending_ |
 
 ## Assignment checklist
 
-- [ ] Copy each colab into Google Drive and set "Anyone with the link" sharing.
-- [ ] Run all cells so outputs are saved.
-- [ ] Archive executed notebooks (with outputs) here in GitHub.
+- [x] Copy each colab into Google Drive and set "Anyone with the link" sharing.
+- [x] Run all cells so outputs are saved.
+- [x] Archive executed notebooks (with outputs) here in GitHub.
 - [ ] Record one YouTube video per colab.
 - [ ] Add each YouTube link to the table above.
 
