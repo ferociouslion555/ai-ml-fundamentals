@@ -13,7 +13,7 @@ The goal is a solid, fundamental understanding of the basics of **AI/ML, tensors
 |---|---------------|-------------------|---------------|
 | 0 | Neural Network Playground (site walkthrough) | — (interactive site) | _pending_ |
 | 1 | Introduction to Python | [notebook](01_intro_to_python/Introduction_to_Python.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=KnaDpP-P8WQ) |
-| 2 | Introduction to NumPy | _pending_ | _pending_ |
+| 2 | Introduction to NumPy | [notebook](02_intro_to_numpy/Introduction_to_NumPy.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=DmvAnqVPN_E) |
 | 3 | Introduction to pandas | _pending_ | _pending_ |
 | 4 | Introduction to matplotlib | _pending_ | _pending_ |
 | 5 | Basic Linear Algebra | _pending_ | _pending_ |
