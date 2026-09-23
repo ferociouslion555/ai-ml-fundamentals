@@ -13,7 +13,7 @@ Executed Colab notebooks (with outputs) plus one YouTube walkthrough per colab, 
 | 4 | Introduction to matplotlib | [notebook](04_intro_to_matplotlib/Introduction_to_matplotlib.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=HQwnQFtsHw4) |
 | 5 | Basic Linear Algebra | [notebook](05_linear_algebra_basic/Basic_Linear_Algebra.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=53gXlRZldXc) |
 | 6 | Linear Algebra (2) | [notebook](06_linear_algebra_2/Linear_Algebra_2.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=Pod-OdvvICE) |
-| 7 | Linear Algebra (3) | [notebook](07_linear_algebra_3/Linear_Algebra_3.ipynb) | _pending_ |
+| 7 | Linear Algebra (3) | [notebook](07_linear_algebra_3/Linear_Algebra_3.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=BIKMvGvvfIc) |
 | 8 | Intro to Probability | [notebook](08_intro_probability/Intro_Probability.ipynb) | _pending_ |
 | 9 | Intro to Statistics | _pending_ | _pending_ |
 | 10 | Data Science Prob & Stats (1) | [notebook](10_ds_prob_stats_1/DS_Prob_Stats_1.ipynb) | _pending_ |
