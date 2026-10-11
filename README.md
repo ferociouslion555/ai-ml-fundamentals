@@ -18,7 +18,7 @@ Executed Colab notebooks (with outputs) plus one YouTube walkthrough per colab, 
 | 9 | Intro to Statistics | [notebook](09_intro_statistics/Intro_Statistics.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=rIdW8EsV9cM) |
 | 10 | Data Science Prob & Stats (1) | [notebook](10_ds_prob_stats_1/DS_Prob_Stats_1.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=UR_vLXQtMkA) |
 | 11 | Data Science Prob & Stats (2) | [notebook](11_ds_prob_stats_2/DS_Prob_Stats_2.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=i5sxJ2QUJyA) |
-| 12 | Data Science Prob & Stats (3) | [notebook](12_ds_prob_stats_3/DS_Prob_Stats_3.ipynb) | _pending_ |
+| 12 | Data Science Prob & Stats (3) | [notebook](12_ds_prob_stats_3/DS_Prob_Stats_3.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=fDhp3JOH5ao) |
 | 13 | Intro to Calculus (1) | [notebook](13_calculus_1/Calculus_1.ipynb) | _pending_ |
 | 14 | Intro to Calculus (2) | [notebook](14_calculus_2/Calculus_2.ipynb) | _pending_ |
 | 15 | Intro to Calculus (3) | [notebook](15_calculus_3/Calculus_3.ipynb) | _pending_ |
