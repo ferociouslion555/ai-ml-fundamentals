@@ -6,7 +6,7 @@ Executed Colab notebooks (with outputs) plus one YouTube walkthrough per colab, 
 
 | # | Colab / Topic | Executed Notebook | YouTube Video |
 |---|---------------|-------------------|---------------|
-| 0 | Neural Network Playground (site) | — (interactive site) | _pending_ |
+| 0 | Neural Network Playground (site) | — (interactive site) | [▶ Watch](https://www.youtube.com/watch?v=Ez0cbkznPvk) |
 | 1 | Introduction to Python | [notebook](01_intro_to_python/Introduction_to_Python.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=KnaDpP-P8WQ) |
 | 2 | Introduction to NumPy | [notebook](02_intro_to_numpy/Introduction_to_NumPy.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=DmvAnqVPN_E) |
 | 3 | Introduction to pandas | [notebook](03_intro_to_pandas/Introduction_to_pandas.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=C53ToM1WUEc) |
