@@ -20,17 +20,17 @@ Executed Colab notebooks (with outputs) plus one YouTube walkthrough per colab, 
 | 11 | Data Science Prob & Stats (2) | [notebook](11_ds_prob_stats_2/DS_Prob_Stats_2.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=i5sxJ2QUJyA) |
 | 12 | Data Science Prob & Stats (3) | [notebook](12_ds_prob_stats_3/DS_Prob_Stats_3.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=fDhp3JOH5ao) |
 | 13 | Intro to Calculus (1) | [notebook](13_calculus_1/Calculus_1.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=qcPLJZuNS6U) |
-| 14 | Intro to Calculus (2) | [notebook](14_calculus_2/Calculus_2.ipynb) | _pending_ |
-| 15 | Intro to Calculus (3) | [notebook](15_calculus_3/Calculus_3.ipynb) | _pending_ |
-| 16 | Foundations of Learning | [notebook](16_foundations_of_learning/Foundations_of_Learning.ipynb) | _pending_ |
+| 14 | Intro to Calculus (2) | [notebook](14_calculus_2/Calculus_2.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=UVCR5gAiO4k) |
+| 15 | Intro to Calculus (3) | [notebook](15_calculus_3/Calculus_3.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=6lqB8_1YkOA) |
+| 16 | Foundations of Learning | [notebook](16_foundations_of_learning/Foundations_of_Learning.ipynb) | [▶ Watch](https://www.youtube.com/watch?v=T5qsuZCilGo) |
 
 ## Assignment checklist
 
 - [x] Copy each colab into Google Drive and set "Anyone with the link" sharing.
 - [x] Run all cells so outputs are saved.
 - [x] Archive executed notebooks (with outputs) here in GitHub.
-- [ ] Record one YouTube video per colab.
-- [ ] Add each YouTube link to the table above.
+- [x] Record one YouTube video per colab.
+- [x] Add each YouTube link to the table above.
 
 ## Colab source links
 
